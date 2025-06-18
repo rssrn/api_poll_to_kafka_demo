@@ -1,0 +1,1 @@
+There's no test here for the Kafka producer part, due to lack of time.  I would aim to implement tests using EmbeddedKafka here.
